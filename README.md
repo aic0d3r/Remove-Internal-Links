@@ -18,19 +18,6 @@ The installed plugin is found under Settings / Remove Links.
             <li>It could finish quickly or slowly, depending on how many posts/pages, chosen speed and hosting platform. You will be notified.</li>
         </ol>
         <p><strong>Note:</strong> Some plugins like <b>Rankmath SEO</b> are known to drastically slow down the process. Disable them temporarily.</p>
-		
-<h2>Support the Plugin Developer and Your Projects</h2>
-        Love this plugin? Skip the endless manual work of linking and writing.
-
-Grab my go-to tools to fast-track your website projects!
-	<ul style="list-style-type:disc; font-size:15px; padding-left:20px;">
-		<li><a href="https://seowriting.ai?fp_ref=aicoder" target="_blank">Auto write humanized, deep web and helpful content in bulk. Use coupon "DEAL25" for 25% OFF.</a></li>
-		<li><a href="https://www.cloudways.com/en/?id=1266451" target="_blank">Get blazing fast, reliable and managed VPS hosting from Cloudways.</a> Choose Linode for best performance.</li>
-		<li><a href="https://linkwhisper.com/ref/3493/" target="_blank">LinkWhisper is my main linking tool</a></li>
-		<li><a href="https://plugli.com/linksy/ref/39/" target="_blank">Linksy for AI linking where LinkWhisper shows no suggestions</a></li>
-		<li><a href="https://linkboss.io?fpr=aicoder" target="_blank">Linkboss for easy AI (bulk) silo interlinking</a></li>
-	</ul>
-<p style="font-size:15px;">Thanks so much for using my affiliate links to get you going. I truly appreciate you guys.</p>
 
 == Frequently Asked Questions ==
 
