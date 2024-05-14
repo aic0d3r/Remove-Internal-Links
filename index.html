@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Remove Internal Links</title>
+  <title>Remove ALL internal links in WordPress</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -18,14 +18,28 @@
 </head>
 <body>
   <div id="content">
-    <h1>Remove Internal Links</h1>
-    <p>This is a WordPress plugin that removes internal links from your website's content.</p>
+    <h1>Remove ALL internal links in WordPress</h1>
+    <p>Ultra-lightweight and secure plugin to automatically delete ALL internal links from WordPress posts or pages. It quickly gets the job done by using PHP only - with 1 click of a button.
+
+This plugin is ideal for people who want to start over their interlinking process (after messing up).
+
+You can skip removing your cloaked affiliate links.
+
+On my Cloudways Linode (1 core/1GB RAM) 171 posts are done within 7 seconds on the Fast speed setting.
+
+The installed plugin is found under Settings / Remove Links.</p>
+    
+    <h2>Download</h2>
+    <p>Download the latest version of the plugin here:</p>
+    <a href="https://github.com/aic0d3r/Remove-Internal-Links/archive/refs/heads/main.zip" download>Download Remove Internal Links Plugin</a>
+
     <h2>Features</h2>
     <ul>
       <li>Automatically removes all internal links from posts and pages</li>
       <li>Provides an option to exclude specific links from removal</li>
       <li>Easy to install and configure</li>
     </ul>
+    
     <h2>Installation</h2>
     <ol>
       <li>Download the plugin ZIP file</li>
@@ -33,10 +47,39 @@
       <li>Activate the plugin</li>
       <li>Configure the plugin settings as needed</li>
     </ol>
-    <h2>Usage</h2>
-    <p>Once activated, the plugin will automatically remove internal links from your content. You can exclude specific links by adding them to the exclusion list in the plugin settings.</p>
+    
+<h2>Plugin Usage</h2>
+<ol>
+            <li>Select Posts or Pages to remove internal links from.</li>
+            <li>Choose the <b>Processing Speed</b>: "Fast" for high-performance servers, "Average" for most, or "Slow" for shared hosting.</li>
+            <li>Enter the prefix used for affiliate links that should be ignored during link removal (e.g., /go/, /recommend/).</li>
+			<li>Click the "Remove Links" button to start link removal.</li>
+            <li>It could finish quickly or slowly, depending on how many posts/pages, chosen speed and hosting platform. You will be notified.</li>
+</ol>
+<p></p><strong>Note:</strong> Some plugins like <b>Rankmath SEO</b> are known to drastically slow down the process. Disable them temporarily.</p>
+
+
+== Frequently Asked Questions ==
+
+= What means the processing speed in ms? =
+
+This is the delay in miliseconds before the next post/page is processed.
+
+= Removing links is slow =
+
+Disable the plugin(s) known to process posts after update, e.g., Rankmath.
+
+== Changelog ==
+
+= 1.0 =
+* Initial release
+    
     <h2>Support</h2>
-    <p>If you have any questions or need assistance, please open an issue on the <a href="https://github.com/aic0d3r/Remove-Internal-Links">GitHub repository</a>.</p>
+    <p>If you have any questions or need assistance, please open an issue on the <a href="https://github.com/aic0d3r/Remove-Internal-Links/issues">GitHub repository</a>.</p>
+    
+    <h2>Contributing</h2>
+    <p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.</p>
+    <p>Please make sure to update tests as appropriate.</p>
   </div>
 </body>
 </html>
