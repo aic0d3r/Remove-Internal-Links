@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Remove Internal Links</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    pre {
+      background-color: #f4f4f4;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div id="content">
+    <!-- README.md content will be inserted here -->
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    document.getElementById('content').innerHTML =
+      marked.parse(`
+        # Remove Internal Links
+
+        This is a WordPress plugin that removes internal links from your website's content.
+
+        ## Features
+
+        - Automatically removes all internal links from posts and pages
+        - Provides an option to exclude specific links from removal
+        - Easy to install and configure
+
+        ## Installation
+
+        1. Download the plugin ZIP file
+        2. Upload the plugin to your WordPress site
+        3. Activate the plugin
+        4. Configure the plugin settings as needed
+
+        ## Usage
+
+        Once activated, the plugin will automatically remove internal links from your content. You can exclude specific links by adding them to the exclusion list in the plugin settings.
+
+        ## Support
+
+        If you have any questions or need assistance, please open an issue on the [GitHub repository](https://github.com/aic0d3r/Remove-Internal-Links).
+      `);
+  </script>
+</body>
+</html>
