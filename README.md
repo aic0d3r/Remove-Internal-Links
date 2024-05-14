@@ -1,4 +1,4 @@
-# Remove-Internal-Links
+# Remove ALL internal links in WordPress
 Ultra-lightweight and secure plugin to automatically delete ALL internal links from WordPress posts or pages. It quickly gets the job done by using PHP only - with 1 click of a button.
 
 This plugin is ideal for people who want to start over their interlinking process (after messing up).
