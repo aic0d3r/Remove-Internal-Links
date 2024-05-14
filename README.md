@@ -17,7 +17,8 @@ The installed plugin is found under Settings / Remove Links.
 			<li>Click the "Remove Links" button to start link removal.</li>
             <li>It could finish quickly or slowly, depending on how many posts/pages, chosen speed and hosting platform. You will be notified.</li>
 </ol>
-        <p><strong>Note:</strong> Some plugins like <b>Rankmath SEO</b> are known to drastically slow down the process. Disable them temporarily.</p>
+<strong>Note:</strong> Some plugins like <b>Rankmath SEO</b> are known to drastically slow down the process. Disable them temporarily.
+<br><br>
 
 == Frequently Asked Questions ==
 
