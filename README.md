@@ -10,13 +10,13 @@ On my Cloudways Linode (1 core/1GB RAM) 171 posts are done within 7 seconds on t
 The installed plugin is found under Settings / Remove Links.
 
 <h2>Plugin Usage</h2>
-        <ol>
+<ol>
             <li>Select Posts or Pages to remove internal links from.</li>
             <li>Choose the <b>Processing Speed</b>: "Fast" for high-performance servers, "Average" for most, or "Slow" for shared hosting.</li>
             <li>Enter the prefix used for affiliate links that should be ignored during link removal (e.g., /go/, /recommend/).</li>
 			<li>Click the "Remove Links" button to start link removal.</li>
             <li>It could finish quickly or slowly, depending on how many posts/pages, chosen speed and hosting platform. You will be notified.</li>
-        </ol>
+</ol>
         <p><strong>Note:</strong> Some plugins like <b>Rankmath SEO</b> are known to drastically slow down the process. Disable them temporarily.</p>
 
 == Frequently Asked Questions ==
